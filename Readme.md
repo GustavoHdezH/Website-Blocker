@@ -43,6 +43,17 @@
 > Importante
 
     Para poder hacer uso de esta herramienta es nececario tener persmisos de administrador de lo contrario, marcara error a la hora de la ejecución.
+> Creación de Cron en Linux
+
+`
+    crontab -a
+`
+
+Listar los cronfiles activos
+
+`
+    contrab -l
+`
 ## Créditos
   >[Gustavo Hernandez](https://github.com/GustavoHdezH) autor original del contenido.
   Happy coding.

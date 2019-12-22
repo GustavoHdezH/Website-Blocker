@@ -1,0 +1,6 @@
+Argumento 1: Minutos (0-59)
+Argumento 2: Hora (0-23)
+Argumento 3: Día del mes (1-31)
+Argumento 4: Mes (1-12)
+Argumento 5: Día de la semana (0-6), Domingo = 0
+Argumento 6: Archivo o comando de ejeción
