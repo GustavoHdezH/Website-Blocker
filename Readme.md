@@ -1,7 +1,5 @@
 # Bloqueador de sitios Web
-    Esta herramienta permite, la admnistración de accecso a ciertos 
-    sitios web, dentro de los horarios de oficina o escolares. De 
-    manera automatizada sin la mecesidad, de buscar el archivo "host" en los archivos del sistema.
+Esta herramienta permite, la admnistración de accecso a ciertos sitios web, dentro de los horarios de oficina o escolares. De manera automatizada sin la mecesidad, de buscar el archivo "host" en los archivos del sistema.
 
 ## Bibliotecas requeridas para su funcionamiento
 
@@ -33,7 +31,8 @@
         "www.google.com.mx"
     ]
 ```
-    En esta lista se pueden agregas los sitios a los cuales, se les negara el acceso mientras este en ejecucuión el programa. 
+En esta lista se pueden agregas los sitios a los cuales, se les negara el acceso mientras este en ejecucuión el programa.
+
 > Asignación de horarios
 ```python 
     from_hour = 7
@@ -42,7 +41,7 @@
     Esta asignación de horarios esta expresada en formato de 24hrs.
 > Importante
 
-    Para poder hacer uso de esta herramienta es nececario tener persmisos de administrador de lo contrario, marcara error a la hora de la ejecución.
+Para poder hacer uso de esta herramienta es nececario tener persmisos de administrador de lo contrario, marcara error a la hora de la ejecución.
 > Creación de Cron en Linux
 
 `
