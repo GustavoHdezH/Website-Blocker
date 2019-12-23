@@ -8,17 +8,17 @@ from datetime import datetime as dt
 hosts_path_system = r"C:\Windows\System32\drivers\etc\hosts"
 host_dir = hosts_path_system
 #host_dir = "hosts" local
-redir = "127.0.0.1"
+redir = "127.0.0.1" 
 
 # list websites to block 
 websites_list =[
-    "www.facebok.com",
+    "www.facebook.com",
     "www.youtube.com",
     "www.google.com.mx"
 ]
 # Define working hours 
 from_hour = 7
-to_hour = 16
+to_hour = 13
 
 #Main Program 
 while True:
